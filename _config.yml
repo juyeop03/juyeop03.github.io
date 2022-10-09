@@ -2,9 +2,9 @@
 name: 'Groooo'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://juyeop03.github.io/'
-# baseurl: ''
-disqus: 'demowebsite'
+# baseurl: 'https://juyeop03.github.io/'
+baseurl: ''
+disqus: 'groooo-1'
 email: 'kjy031104@gmail.com'
 formsfree: 'xkneznvj'
 
