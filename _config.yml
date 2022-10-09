@@ -1,12 +1,12 @@
 # Site
 name: 'Groooo'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-# baseurl: 'https://juyeop03.github.io/'
-baseurl: ''
+baseurl: 'https://juyeop03.github.io/'
+# baseurl: ''
 disqus: 'demowebsite'
 email: 'kjy031104@gmail.com'
+formsfree: 'xkneznvj'
 
 include: ["_pages"]
 permalink: /:title/
