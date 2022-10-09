@@ -31,10 +31,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#03a87c;
+	color:#408CF7;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#408CF7 !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -112,7 +112,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#03a87c;
+	color:#408CF7;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -120,7 +120,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#03a87c;
+	color:#408CF7;
 	border-color:transparent;
 }
 .btn-link.btn-info {
@@ -132,7 +132,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-danger {
-	color:#ea2f65;
+	color:#408CF7;
 	border-color:transparent;
 }
 .btn-link.btn-light {
@@ -192,18 +192,17 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#03a87c !important;
-	border:1px solid #03a87c;
+	color:#408CF7 !important;
+	border:1px solid #408CF7;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#03a87c;
+	background:#408CF7;
 	color:#fff !important;
 }
 .navbar-brand {
-	margin-right:2rem;
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
@@ -334,13 +333,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#03a87c !important;
+	fill:#408CF7 !important;
 }
 .bg-secondary {
 	fill:#7832e2 !important;
 }
 .bg-success {
-	fill:#03a87c !important;
+	fill:#408CF7 !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
@@ -349,7 +348,7 @@ a.text-dark:hover {
 	fill:#ffde03 !important;
 }
 .bg-danger {
-	fill:#ea2f65 !important;
+	fill:#408CF7 !important;
 }
 .bg-light {
 	fill:#f8f9fa !important;
@@ -386,7 +385,7 @@ a.text-dark:hover {
 	top:20px;
 	right:20px;
 	z-index:1;
-	background:#ea2f65;
+	background:#408CF7;
 	width:55px;
 	height:55px;
 	padding:12.5px 0;
@@ -407,7 +406,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#03a87c;
+	color:#408CF7;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -437,8 +436,8 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#03a87c;
-	border-color:#03a87c;
+	background-color:#408CF7;
+	border-color:#408CF7;
 }
 .alert-primary hr {
 	border-top-color:#038f6a;
@@ -459,8 +458,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#03a87c;
-	border-color:#03a87c;
+	background-color:#408CF7;
+	border-color:#408CF7;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
@@ -492,8 +491,8 @@ a.text-dark:hover {
 }
 .alert-danger {
 	color:#fff;
-	background-color:#ea2f65;
-	border-color:#ea2f65;
+	background-color:#408CF7;
+	border-color:#408CF7;
 }
 .alert-danger hr {
 	border-top-color:#e81854;
