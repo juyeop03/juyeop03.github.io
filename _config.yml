@@ -3,7 +3,8 @@ name: 'Mundana'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://juyeop03.github.io'
+# baseurl: 'https://juyeop03.github.io/'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'kjy031104@gmail.com'
 
@@ -18,11 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    juyeop:
       name:           Juyeop
-      site:           https://github.com/juyeop03
+      linkedin:       https://www.linkedin.com/in/juyeop-kim-2aa562201
+      github:         https://github.com/juyeop03
       avatar:         /assets/images/profile.jpg
-      bio:            "Hi, I am Juyeop"
+      bio:            "Hi, I'm Juyeop, Thank you to visit my blog. I hope you to get the information you need!"
       email:          kjy031104@gmail.com
  
 # Defaults
