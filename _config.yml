@@ -1,8 +1,8 @@
 # Site
 name: 'Groooo'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://juyeop03.github.io/'
-# baseurl: ''
+# baseurl: 'https://juyeop03.github.io/'
+baseurl: ''
 email: 'kjy031104@gmail.com'
 formsfree: 'xkneznvj'
 
