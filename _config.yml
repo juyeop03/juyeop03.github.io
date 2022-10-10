@@ -21,7 +21,7 @@ authors:
       name:           Juyeop
       linkedin:       https://www.linkedin.com/in/juyeop-kim-2aa562201
       github:         https://github.com/juyeop03
-      avatar:         /assets/images/profile.jpg
+      avatar:         assets/images/profile.jpg
       bio:            "Hi, I'm Juyeop, Thank you to visit my blog. I hope you to get the information you need!"
       email:          kjy031104@gmail.com
  
@@ -34,7 +34,7 @@ defaults:
     values:
       layout: post
       author: juyeop
-      avatar: /assets/images/profile.jpg
+      avatar: assets/images/profile.jpg
       
   # all pages
   - scope:
