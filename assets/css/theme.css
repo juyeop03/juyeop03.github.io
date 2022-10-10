@@ -116,7 +116,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
-	color:#7832e2;
+	color:#408CF7;
 	border-color:transparent;
 }
 .btn-link.btn-success {
@@ -148,7 +148,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-purple {
-	color:#ad6edd;
+	color:#408CF7;
 	border-color:transparent;
 }
 .btn-link.btn-salmon {
@@ -296,7 +296,7 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: Georgia,Times,"Times New Roman",serif;
+        font-family: "Segoe UI", "Helvetica Neue", "Arial";
         font-size: 2.4rem;
         font-weight: 700;
         line-height: 1.1;
@@ -336,7 +336,7 @@ a.text-dark:hover {
 	fill:#408CF7 !important;
 }
 .bg-secondary {
-	fill:#7832e2 !important;
+	fill:#408CF7 !important;
 }
 .bg-success {
 	fill:#408CF7 !important;
@@ -360,7 +360,7 @@ a.text-dark:hover {
 	fill:#fff !important;
 }
 .bg-purple {
-	fill:#ad6edd !important;
+	fill:#408CF7 !important;
 }
 .bg-salmon {
 	fill:#ff977a !important;
@@ -447,8 +447,8 @@ a.text-dark:hover {
 }
 .alert-secondary {
 	color:#fff;
-	background-color:#7832e2;
-	border-color:#7832e2;
+	background-color:#408CF7;
+	border-color:#408CF7;
 }
 .alert-secondary hr {
 	border-top-color:#6a1fdb;
@@ -535,8 +535,8 @@ a.text-dark:hover {
 }
 .alert-purple {
 	color:#fff;
-	background-color:#ad6edd;
-	border-color:#ad6edd;
+	background-color:#408CF7;
+	border-color:#408CF7;
 }
 .alert-purple hr {
 	border-top-color:#a159d8;
@@ -656,7 +656,7 @@ article {
     font-family:Lora;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: "Segoe UI", "Helvetica Neue", "Arial";
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
