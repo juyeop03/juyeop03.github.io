@@ -151,9 +151,6 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
-  a:hover {
-    color: #025d45;
-    text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -5865,8 +5862,9 @@ button.bg-lightblue:focus {
   position: fixed;
   top: 0;
   right: 0;
-  left: 0;
-  z-index: 1030; }
+  left: 0; 
+  z-index: 1030;
+}
 
 .fixed-bottom {
   position: fixed;
