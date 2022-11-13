@@ -3,7 +3,7 @@ layout: post
 title: "A person without experienced in web development tells a story about made a github blog.txt"
 author: juyeop
 categories: [ ETC ]
-image: assets/images/22-10-30/thumnail.jpg
+image: assets/images/22-10-30/thumbnail.jpg
 tags: []
 ---
 

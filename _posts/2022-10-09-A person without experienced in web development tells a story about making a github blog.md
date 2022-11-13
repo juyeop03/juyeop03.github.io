@@ -3,7 +3,7 @@ layout: post
 title:  "웹 개발 무경험자가 깃헙 블로그 만든 썰 푼다.txt"
 author: juyeop
 categories: [ ETC ]
-image: assets/images/22-10-09/thumnail.jpg
+image: assets/images/22-10-09/thumbnail.jpg
 tags: [ featured ]
 ---
 
