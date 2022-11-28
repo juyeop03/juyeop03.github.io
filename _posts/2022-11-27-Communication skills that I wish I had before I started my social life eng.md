@@ -29,21 +29,21 @@ But that is all excuse.
 Age is not important in social completely.
 Communication is one skill also, don't excuse with young age should to change yourselves.
 
-### 사람은 자기 자신에게 관심이 가장 많다
+### People is most interested to yourselves
 
 ![group-photo]({{ site.baseurl }}/assets/images/22-11-06/group-photo.jpg)
 
-단체 사진을 찍은 후 사진에서 누구를 가장 먼저 확인하나?
-대부분의 사람들은 사진을 확대해서 자신을 가장 먼저 찾을 것이다.
+After taking group photo who you check first in photo?
+Mostly people zoom the photo and find yourselves first.
 
-이처럼 사람은 자기 자신에게 관심이 가장 많으며 커뮤니케이션 과정에서도 자신의 얘기를 하는 것을 좋아한다.
-하지만 대화를 하는 상대방 역시 사람이므로 다른 사람의 얘기를 듣는 것보다 자신의 얘기를 하는 것을 당연히 더 좋아하지 않을까?
+Like this people is most interested to yourselves and also like to talk about yourselves in communication process.
+But talk counterpart also human then do not naturally more like to talk about yourselves than hear other's story?
 
-커뮤니케이션에서 가장 중요한 것은 경청이다.
-상대방의 이야기를 경청하지 않고 자신의 얘기만 계속 하는 사람과의 대화는 지치고 재밌지 않을 것이다.
+Listening is most important in communication.
+Communication is tired and no fun with who don't listen counterpart story and talking about yourselves.
 
-하지만 경청이 중요하다고 해서 커뮤니케이션 과정에서 100% 경청만 하면 안된다.
-커뮤니케이션은 서로가 대화를 나누는 것이므로 자신의 얘기도 자신감 있게 할 줄 알아야 한다.
+But just because communication is important you don't must only listening 100% in communication process.
+You can should talk about yourselves confidently as communication is talk with other people.
 
 ### 상대방에게 먼저 관심을 가지면 대화가 형성된다
 
