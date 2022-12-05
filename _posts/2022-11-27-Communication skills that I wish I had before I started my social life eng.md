@@ -45,25 +45,25 @@ Communication is tired and no fun with who don't listen counterpart story and ta
 But just because communication is important you don't must only listening 100% in communication process.
 You can should talk about yourselves confidently as communication is talk with other people.
 
-### 상대방에게 먼저 관심을 가지면 대화가 형성된다
+### If you take interested to other people first then conversation is made
 
-때때로 우리는 처음 본 사람, 별로 친하지 않은 사람과 대화를 나누어야 하는 순간이 종종 생긴다.
-어색한 것이 당연하고 어떻게 대화를 나누어야 할지 막막할 것이다.
-그럴 때마다 사람은 자기 자신에게 관심이 가장 많다는 것을 떠올려라.
+Sometimes moment is made to talk with met first people or not familiar people.
+Awkward is natural and it is at a loss how to talking.
+Whenever that you should to think people is most interested to yourself.
 
 ![wonder]({{ site.baseurl }}/assets/images/22-11-06/wonder.jpg)
 
-상대방이 요즘 어떤 것에 관심을 가지고 있고 무엇을 좋아하는지 먼저 질문해봐라.
-그러면 상대방은 질문에 대한 답변을 할 것이고, 만약 상대방이 경청을 할 줄 아는 사람이라면 당신에게도 역으로 질문을 할 것이다.
-이렇게 서로에게 질문과 답변을 하면서 대화가 형성되고 서로의 공통점을 찾게 된다.
+Ask first to counterpart what usually interested in and what you like.
+Then counterpart is answer about question, if couterpart is can listening then them ask to you the other way also.
+Asked question and answered to each others like this then conversation is being make and can find each others similar thing.
 
-그러나 어쩔 수 없이 등 떠밀려 하는 형식적인 대화에서는 좋은 결과를 기대하기 어렵다.
-사람은 상대방보다 자기 자신에게 관심이 더 많기에 상대방의 말이 귀에 잘 들어오지 않는 것이 당연하다.
+But it is difficult to expect good result in formal conversation by pushed unavoidable.
+Person is more interested to yourself than counterpart then it is not easy naturally to heard counterpart spoke.
 
-그럴수록 더욱 진심으로 상대방에게 관심을 가지며 대화에 임해라.
-쉬운 일은 아니지만 불가능한 일도 아니며, 상대방에게 관심을 가지면 가질 수록 커뮤니케이션이 재밌고 유익해질 것이다.
+The more you should interested counterpart sincerely more and talk.
+It is not easy but also not impossible, if you make interest in counterpart then communication is fun and instructive.
 
-커뮤니케이션의 핵심은 내가 아닌 상대방이라는 것을 명심해라.
+Remember communication's core is counterpart it just not me.
 
 ### 공감대가 맞는 대화 주제를 선택해라
 
