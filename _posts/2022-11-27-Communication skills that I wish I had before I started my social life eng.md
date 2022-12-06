@@ -65,20 +65,20 @@ It is not easy but also not impossible, if you make interest in counterpart then
 
 Remember communication's core is counterpart it just not me.
 
-### 공감대가 맞는 대화 주제를 선택해라
+### Do choose same bond of sympathy talk topic
 
-어떤 사람은 운동을 좋아하고 또 어떤 사람은 자동차를 좋아하는 것처럼 사람은 모두 다르다.
-커뮤니케이션을 할 때도 상대방에 따라서 대화 주제를 다르게 선택하면 좋다.
-평소에 상대방이 어떤 것에 관심을 가지고 있는지 미리 파악을 해두면 도움이 될 것이다.
+Some person like exercise and another person like car, person is all different.
+Choose talk topic differently by counterpart is good when you doing communication.
+Check beforehand is will helpful what counterpart interested in usually.
 
 ![trend]({{ site.baseurl }}/assets/images/22-11-06/trend.jpg)
 
-만약 상대방에 대해서 잘 알지 못한다면 최근 사회에서 이슈가 되고 있는 내용을 주제로 대화를 하는 것도 좋은 방법이다.
-뉴스에서 보도된 소식, 볼만한 넷플릭스 영화, 추천해줄만한 유튜버와 같이 서로가 공감대를 형성할 수 있는 대화 주제를 생각해봐라.
+If you don't know about counterpart then talk about recently social hot issue is also good method.
+Do think talk topic that can make each others bond of sympathy like news, netflix, youtuber.
 
-자신감은 커뮤니케이션에서 꼭 필요한 요소이다.
-커뮤니케이션을 할 때 자신감을 가지고 자신이 먼저 대화를 이끌어 가도록 시도해봐라.
-상대방 역시 나와 같은 사람이므로 자신에게 먼저 관심을 가져주기를 기다리지 않을까?
+Confidence is most important element in communication.
+Have confidence and try to lead conversation first when you doing communication.
+Counterpart is also person like me so won't you wait for someone to pay attention to yourself first?
 
 ### 어디서 만난 인연인지는 중요하지 않다
 
