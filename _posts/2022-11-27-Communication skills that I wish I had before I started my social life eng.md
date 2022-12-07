@@ -80,32 +80,32 @@ Confidence is most important element in communication.
 Have confidence and try to lead conversation first when you doing communication.
 Counterpart is also person like me so won't you wait for someone to pay attention to yourself first?
 
-### 어디서 만난 인연인지는 중요하지 않다
+### It is not important this relationship is where met.
 
-공적으로 만나게 된 인연이데 굳이 사적인 이야기를 해야할까, 과연 친해져야 할까라는 생각을 했었었다.
-정말 잘못되고도 위험한 생각이다.
-지금 내 주변에 있는 사람들도 삶을 살아가다 보니 우연히 만나게 된 사람들이다.
+This relationship met by public but should I talk private story?, should I close to them why bother?, I thought
+This think is very wrong and dangerous.
+Right now my around of people also met by chance when in life.
 
-그러나 공적으로 만난 사람이라고 해서 뭐가 다를까?
-전혀 다를 것이 없다.
-하지만 스스로 회사에서만 만나고 이야기 할 사람이라고 단정지어 커뮤니케이션을 한다.
-그 커뮤니케이션은 당연히 좋은 결과를 얻어내기 힘들고 형식적이게 될 것이다.
+But people met by public what is different?
+It is not different completely.
+But you do communication predicate yourself that people only met and talk in company.
+Naturally get good result is difficult and it will be formal.
 
 ![social-life]({{ site.baseurl }}/assets/images/22-11-06/social-life.jpg)
 
-또 몇몇 사람들은 이렇게 생각한다.
-공적으로 만난 인연이더라도 "앞으로 어떻게 될지 모르니", "네트워킹은 중요하므로" 같이 앞으로의 이 관계에 대한 가치를 생각하며 커뮤니케이션 한다.
-이 역시 틀린 것은 아니지만 이런 관계는 좋지 못하다고 생각한다.
+Also some people think like this.
+This relationship met by public but they do communication with think about this relationship's future value like this "Because don't know future", "Networking is important".
+Also it is not wrong but this relationship is not good I think.
 
-성인이 될 수록, 사회생활의 기간이 길어질 수록 어릴 적보다 순수하게 친구를 사귀는 것이 어려워지는게 사실이다.
-관계를 맺을 때 부가적인 요소들을 계속 찾게되고 눈에 보이지 않는 벽을 스스로 쌓는 일들이 많아진다.
+If you grow up to adult and social life period is more and more then meet friend purely is difficult in fact than childhood.
+When you make relationship you find additional elements continually and build wall that not show by eyes yourself.
 
-하지만 이러한 목적이 있는 관계, 형식적인 커뮤니케이션이 과연 언제까지 유효할까?
-회사를 퇴사하거나, 높은 직위에서 박탈 됐거나, 자신이 어려운 순간에 처해있을 때 과연 그 관계들이 도움이 될까?
+But this purpose relationship and formal communication is how long valid?
+Is this relationship helpful when you leave out company, be deprived in high rank have difficult moment?
 
-어릴 적 우리가 순수하게 친구를 사겼던 것처럼 사람 대 사람으로서 관계를 맺어라.
-진심으로 그 상대에게 관심을 가져주고 상대와 친해지고 싶다는 마음을 보여줘라.
-그런 마음가짐으로 형성되는 관계야 말로 시간이 지나더라도 지속적으로 이루어지는 가치있는 관계가 아닐까?
+Make relationship person to person like when we made friend purely in childhood.
+Have interest in counterpart truly and show heart you want friendly with counterpart.
+Is this relationship that made by heart is not continually consist value when time go?
 
 ### 삶은 노선표가 정해져 있지 않은 버스와 같다
 
