@@ -82,7 +82,7 @@ Counterpart is also person like me so won't you wait for someone to pay attentio
 
 ### It is not important this relationship is where met.
 
-This relationship met by public but should I talk private story?, should I close to them why bother?, I thought
+This relationship met by public but should I talk private story?, should I close to them why bother?, I thought.
 This think is very wrong and dangerous.
 Right now my around of people also met by chance when in life.
 
@@ -101,7 +101,7 @@ If you grow up to adult and social life period is more and more then meet friend
 When you make relationship you find additional elements continually and build wall that not show by eyes yourself.
 
 But this purpose relationship and formal communication is how long valid?
-Is this relationship helpful when you leave out company, be deprived in high rank have difficult moment?
+Is this relationship helpful when you leave out company, be deprived in high rank, have difficult moment?
 
 Make relationship person to person like when we made friend purely in childhood.
 Have interest in counterpart truly and show heart you want friendly with counterpart.
@@ -128,7 +128,7 @@ In conclusion, think from counterpart position and do consideration is made succ
 ![ok]({{ site.baseurl }}/assets/images/22-11-06/ok.jpg)
 
 But always excessive is not good.
-Don't lose yourself because you take care of counterpart
+Don't lose yourself because you take care of counterpart.
 Keep appropriate line and try change slowly your interest from yourself to counterpart.
 
-It is not easy never but try effort hardly and everyone become to be best driver in yourself life 😏
+It is not easy never but try effort hardly and everyone become to be best driver in your life. 😏
