@@ -17,33 +17,33 @@ But real social communication was so different I experienced until now.
 To find each others same things not easy because around people was not similar my age and each others grew environment and background was all different until now.
 I can't felt comfortable like talk with friends usually, I felt difficult to talk about private story because that relationship was public.
 
-To held mind and effort again myself but that was not changed easily and my look in company was different my look in real when time go more and more.
+To held mind and effort again yourself but that was not changed easily and my look in company was different my look in real when time go more and more.
 Talking count was decreased and I sensitived people's wits then I felt skepticism moment of social life was more.
 
-Once I rationalized myself like "Early social life", "Age young yet", "Small experience because didn't graduate from college", "My original character is that".
+Once I rationalized yourself like "Early social life", "Age young yet", "Small experience because didn't graduate from college", "My original character is that".
 
 But that is all excuse.
 
 ![execuse]({{ site.baseurl }}/assets/images/22-11-06/execuse.jpg)
 
 Age is not important in social completely.
-Communication is one skill also, don't excuse with young age should to change yourselves.
+Communication is one skill also, don't excuse with young age should to change yourself.
 
-### People is most interested to yourselves
+### People is most interested to yourself
 
 ![group-photo]({{ site.baseurl }}/assets/images/22-11-06/group-photo.jpg)
 
 After taking group photo who you check first in photo?
-Mostly people zoom the photo and find yourselves first.
+Mostly people zoom the photo and find yourself first.
 
-Like this people is most interested to yourselves and also like to talk about yourselves in communication process.
-But talk counterpart also human then do not naturally more like to talk about yourselves than hear other's story?
+Like this people is most interested to yourself and also like to talk about yourself in communication process.
+But talk counterpart also human then do not naturally more like to talk about yourself than hear other's story?
 
 Listening is most important in communication.
-Communication is tired and no fun with who don't listen counterpart story and talking about yourselves.
+Communication is tired and no fun with who don't listen counterpart story and talking about yourself.
 
 But just because communication is important you don't must only listening 100% in communication process.
-You can should talk about yourselves confidently as communication is talk with other people.
+You can should talk about yourself confidently as communication is talk with other people.
 
 ### If you take interested to other people first then conversation is made
 
@@ -111,7 +111,7 @@ Is this relationship that made by heart is not continually consist value when ti
 
 Previously I heard "Life is same bus that not fixed route map" and agreed but I don't know where heard.
 
-Bus driver is myself and various people ride bus on various station during my life period.
+Bus driver is yourself and various people ride bus on various station during my life period.
 Don't get off is good who ridden on bus but when each others destination is different how can do ride continually.
 
 ![bus]({{ site.baseurl }}/assets/images/22-11-06/bus.jpg)
