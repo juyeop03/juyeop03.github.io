@@ -107,19 +107,19 @@ Make relationship person to person like when we made friend purely in childhood.
 Have interest in counterpart truly and show heart you want friendly with counterpart.
 Is this relationship that made by heart is not continually consist value when time go?
 
-### 삶은 노선표가 정해져 있지 않은 버스와 같다
+### Life is same bus that not fixed route map
 
-예전에 어디서인지는 모르겠지만 "삶은 노선표가 정해져 있지 않은 버스와 같다" 라는 말을 듣고 공감한 적이 있었다.
+Previously I heard "Life is same bus that not fixed route map" and agreed but I don't know where heard.
 
-버스의 운전자는 나 자신이고 내 삶의 기간동안 다양한 사람들이 다양한 정류장에서 버스를 탑승한다.
-버스에 탄 사람들이 내리지 않고 계속 함께하면 좋겠지만 서로의 목적지가 다르다면 어떻게 계속 타고 있을 수 있겠는가.
+Bus driver is myself and various people ride bus on various station during my life period.
+Don't get off is good who ridden on bus but when each others destination is different how can do ride continually.
 
 ![bus]({{ site.baseurl }}/assets/images/22-11-06/bus.jpg)
 
-모든 사람들이 버스에 내리지 않도록 할 수 있는 방법은 없다.
+No method all of people don't get off on bus.
 
-하지만 버스에 있을 동안이라도 기사로서의 책임으로 최대한 노력하여 그들을 편안하게, 재미있게 해주는 것이 맞지 않을까?
-"이 버스는 편안했어", "기사가 친절했어", "지금은 비록 내렸지만 나중에 기회가 있으면 다시 타고 싶어" 라는 생각이 들 수 있도록.
+But is not correct effort to maximum to make them comfortable and fun when they were on the bus as driver responsibility?
+Should make they can think like this "This bus is comfortable", "Driver is kind", "Current I get off but when I have chance next time I want to ride bus again".
 
 ---
 
