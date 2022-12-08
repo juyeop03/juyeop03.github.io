@@ -131,4 +131,4 @@ But always excessive is not good.
 Don't lose yourself because you take care of counterpart.
 Keep appropriate line and try change slowly your interest from yourself to counterpart.
 
-It is not easy never but try effort hardly and everyone become to be best driver in your life. 😏
+It is not easy never but try effort hardly and everyone become to be best driver in your life 😏
