@@ -123,12 +123,12 @@ Should make they can think like this "This bus is comfortable", "Driver is kind"
 
 ---
 
-정리하자면, 상대방의 입장에서 생각을 하고 배려하는 것은 항상 성공적인 커뮤니케이션으로 결과를 이끈다.
+In conclusion, think from counterpart position and do consideration is made success communication result always.
 
 ![ok]({{ site.baseurl }}/assets/images/22-11-06/ok.jpg)
 
-하지만 무엇이든 과하면 좋지 않다.
-상대방을 위한다고 해서 자기 자신을 잃어버리면 안된다.
-항상 적정선을 유지하면서 천천히 조금씩 관심사를 나 자신에서 상대방으로 바꿔봐라.
+But always excessive is not good.
+Don't lose yourself because you take care of counterpart
+Keep appropriate line and try change slowly your interest from yourself to counterpart.
 
-절대 쉽지는 않겠지만 열심히 노력해서 모두가 자신의 삶의 베스트 드라이버가 되자 😏
+It is not easy never but try effort hardly and everyone become to be best driver in yourself life 😏
